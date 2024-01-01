@@ -37,9 +37,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LeXarDev&theme=nord&no-frame=false&no-bg=false&margin-w=4">
 </div>
 <div align="center">
+<div align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=LeXarDev&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
 </div>
+<div align="center">
