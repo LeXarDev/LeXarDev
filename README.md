@@ -26,9 +26,10 @@
 </div>
 
 <div align="center">
-  <h2 align="center">📊 Statistics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeXarDev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeXarDev&theme=tokyonight_duo&hide_border=true&mode=weekly">
+  <h2 align="center">📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeXarDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeXarDev&theme=dark&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeXarDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 <div align="center">
 <a href="https://visitcount.itsvg.in">
