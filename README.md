@@ -28,7 +28,9 @@
 <div align="center">
   <h2 align="center">📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=LeXarDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeXarDev&theme=dark&hide_border=false">
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeXarDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 <div align="center">
