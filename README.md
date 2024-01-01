@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LeXarDev">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeXarDev&theme=tokyonight_duo&hide_border=true&mode=weekly">
 </div>
-
+<div align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=LeXarDev&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>
