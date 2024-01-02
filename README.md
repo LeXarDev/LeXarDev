@@ -8,7 +8,7 @@
 <div>
   <h2 align="center">💻 About me</h2>
   <div align="center">
-    <p>•   I am currently a university graduate</p>
+    <p>•   BSc in CS</p>
     <p>•   I am from Saudi Arabia</p>
   </div>
 </div>
