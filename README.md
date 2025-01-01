@@ -9,7 +9,6 @@
   <h2 align="center">💻 About me</h2>
   <div align="center">
     <p>•   BSc in CS</p>
-    <p>•   I am from Saudi Arabia</p>
   </div>
 </div>
 <div align="center">
